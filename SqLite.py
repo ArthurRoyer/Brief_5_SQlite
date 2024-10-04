@@ -1,6 +1,6 @@
 import sqlite3
 import csv
-import os
+
 
 
 # Connexion à une base de données SQLite
